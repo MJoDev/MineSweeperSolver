@@ -1,0 +1,2 @@
+# MineSweeperSolver
+ Solver de minesweeper
